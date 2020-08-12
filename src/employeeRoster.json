@@ -1,0 +1,72 @@
+[
+    {
+        "firstName": "Billy",
+        "lastName": "Bob",
+        "id": 1,
+        "position": "Investigator",
+        "email": "Billy059@lmaojk.com"
+    },
+    {
+        "firstName": "Lawrence",
+        "lastName": "Wolfsheim",
+        "id": 2,
+        "position": "Guard",
+        "email": "Woflfie@lmaojk.com"
+    },
+    {
+        "firstName": "Dante",
+        "lastName": "Vasquez",
+        "id": 3,
+        "position": "Guard",
+        "email": "Hamlet@lmaojk.com"
+    },
+    {
+        "firstName": "Jak",
+        "lastName": "Precursor",
+        "id": 4,
+        "position": "Engineer",
+        "email": "OttselsAreLife42@lmaojk.com"
+    },
+    {
+        "firstName": "Keira",
+        "lastName": "Precursor",
+        "id": 5,
+        "position": "Bus Driver",
+        "email": "KnightlyWho@lmaojk.com"
+    },
+    {
+        "firstName": "Amos",
+        "lastName": "Hagai",
+        "id": 6,
+        "position": "Sales Associate",
+        "email": "HawaiiShirtsForDays@lmaojk.com"
+    },
+    {
+        "firstName": "Minami",
+        "lastName": "Precursor",
+        "id": 7,
+        "position": "Secret Yakuza boss",
+        "email": "Peaceloves@lmaojk.com"
+    },
+    {
+        "firstName": "Aguila",
+        "lastName": "Ramirez",
+        "id": 8,
+        "position": "Body Guard",
+        "email": "AguilaWarrior@lmaojk.com"
+    },
+    {
+        "firstName": "Susano",
+        "lastName": "Ramirez",
+        "id": 9,
+        "position": "Body Guard",
+        "email": "FlowersAreNeat42@lmaojk.com"
+    },
+    {
+        "firstName": "Agate",
+        "lastName": "Leon",
+        "id": 10,
+        "position": "President",
+        "email": "TheOnlyNormalOneHere@lmaojk.com"
+    }
+]
