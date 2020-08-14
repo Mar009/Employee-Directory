@@ -1,0 +1,16 @@
+h2{
+    font-weight: bold;
+    font-size: large;
+}
+.header{
+    width: 100%;
+    text-align: center;
+    color: #595070;
+    background-color: #2b2b50;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 5px solid #cbcc98;
+    font-size: 16px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}

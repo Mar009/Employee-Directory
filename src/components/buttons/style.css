@@ -1,0 +1,19 @@
+.card-btn {
+
+    width: 100%;
+    position: relative;
+    border: none;
+    bottom: 10%;
+    background-color:grey;
+    font-size: 24px;
+    cursor: pointer;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif ;
+    outline: none;
+    text-align: left;
+  }
+  
+  .row {
+    border: 2px;
+    border-color: black;
+    background-color:lightgray;
+  }
